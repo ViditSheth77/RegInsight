@@ -193,6 +193,21 @@ RegInsight/
 
 ---
 
+## 📸 Demo Screenshot
+SEC Filing Monitor report for MICROSOFT (MSFT) of 2025-07-30:
+<img width="1512" height="782" alt="image" src="https://github.com/user-attachments/assets/36dc38e3-680f-4824-903b-9b310dfe7fc8" />
+SEC Filing Monitor report for MICROSOFT (MSFT) of 2025-04-30
+<img width="1508" height="736" alt="image" src="https://github.com/user-attachments/assets/3f87cd95-7e76-4532-914b-0c00cc29b52e" />
+
+
+SEC Filing Monitor report for Apple (AAPL):
+<img width="1511" height="808" alt="image" src="https://github.com/user-attachments/assets/f475ceff-42e7-47a9-8252-803264f970bd" />
+<img width="1504" height="807" alt="image" src="https://github.com/user-attachments/assets/de570d5c-2871-4b22-96b1-19c453333404" />
+
+
+
+
+
 ## Troubleshooting
 
 ### 1. Password Authentication Failed
@@ -234,7 +249,8 @@ Verify row exists in DB.
 
 ## License
 
-MIT License.
+This project is licensed under the **MIT License**.  
+See [LICENSE](LICENSE) for details.
 
 ---
 
